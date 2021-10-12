@@ -1,0 +1,62 @@
+.blok
+{
+	width:50px;
+	margin:10px;
+	float:left;
+}
+
+.kon
+{
+	height:250px;
+	border:1px black solid;
+	width:60px;
+	float:left;
+	position:relative;
+}
+
+.kon1
+{
+	height:250px;
+	border:1px black solid;
+	width:60px;
+	float:left;
+	position:relative;
+}
+
+@media (max-width:800px)
+{
+	.kon1
+	{
+		clear:left;
+	}
+}
+
+
+.labelica
+{
+	position:absolute;
+	bottom:0;
+	left:0;
+	right:0;
+	text-align:center;
+}
+
+.brojke
+{
+	height:250px;
+	width:30px;
+	float:left;
+	position:relative;
+}
+
+.nula
+{
+	position:absolute;
+	bottom:0;
+}
+
+.dvesta
+{
+	position:absolute;
+	top:0;
+}

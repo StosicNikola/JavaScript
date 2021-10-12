@@ -1,0 +1,30 @@
+.divv1
+{
+	width:400px;
+	height:80px;
+	clear:left;
+}
+
+.divv2
+{
+	width:400px;
+	height:80px;
+	border: 1px black solid;
+	clear:left;
+}
+
+.divv3
+{
+	width:400px;
+	height:80px;
+	clear:left;
+}
+
+.kocka
+{
+	width:30px;
+	height:30px;
+	background-color:red;
+	float:left;
+	margin:5px;
+}
